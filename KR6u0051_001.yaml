@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR6u0051/t/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天台山中有一老師年可九神悲哭眼中泣血唱言苦弟子惠通合掌頂禮眼中泣淚災難如何得免師報言惠通衆生亡沒普念彌勒已比相相魏之地正在其中愚三月四月鬼兵亂起無邊無際八月九月末劫衆生行善鬼兵自滅天地黑暗得免寫一本免一門寫兩本免六親寫三本免一村流傳者是弟子謗此經者入阿鼻地獄無有出期見此經不寫者滅門至心讀誦者得成佛道黑風西北起東南興鬼兵永常天地暗何得心先須斷酒肉貪嗔更莫生人能慎此事佛道一時
+  hash: sha256:f2b67a9d3663b80019a9db1b513f5a80dd8d56d83bd8a383f80c29664bf1e5cc
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: 救諸眾生一切苦難經, id: KR6u0051_T_001-juan-start, juan_n: '001', jhead: 救諸眾生一切苦難經}
+  - {type: 'cbeta:juan-end', offset: 187, content: 救諸眾生一切苦難經一卷, id: KR6u0051_T_001-juan-end, juan_n: '001', jhead: 救諸眾生一切苦難經一卷}
+metadata:
+  title: 救諸眾生一切苦難經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2915.xml
+    old_id: T85n2915
+hash: sha256:eac0d995b1f27eaabba29864fc73fd9d7bfe5ea5f061af652fcf9744fe9e3952

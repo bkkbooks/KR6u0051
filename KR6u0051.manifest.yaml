@@ -17,9 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6u0051_000.yaml, hash: 'sha256:440889fcf799ca5a5a5b665de6a89f04e5aabfa2c0fd5e746e5a4709d79da568'}
-  - {seq: 1, filename: KR6u0051_001.yaml, hash: 'sha256:eac0d995b1f27eaabba29864fc73fd9d7bfe5ea5f061af652fcf9744fe9e3952'}
+  - {seq: 1, filename: KR6u0051_001.yaml, hash: 'sha256:21e240c4f13f8e0d7ba6ad91068248d605152bc7c859862904e37fab2c28d8a3'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6u0051_001.markers.yaml, hash: 'sha256:c4d3cd00578b081c0b4b09eb68ac01ba8102c34986aa9b5985b218cd543a63c6'}
+  - {seq: 0, role: markers, filename: assets/KR6u0051_000.markers.yaml, hash: 'sha256:ce4d608b0e11445a1a6d339b2ba4e23c310ca35466093cf1881e29a0a2203f29'}
+  - {seq: 1, role: markers, filename: assets/KR6u0051_001.markers.yaml, hash: 'sha256:feaf3721568063cea02dec67780f0653aa314fe4554a92c0271c5b0409d42768'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +32,4 @@ table_of_contents:
   label: 救諸眾生一切苦難經
   type: juan
   level: 1
-hash: sha256:1d08252801f887d78e63a668e2f737f1eda1f102aba376c1a15ae463d0ac4451
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:f5c8cafb7ba844d844e42799dd5556c31062fa6f9d68489b8d95f730dfc53d73

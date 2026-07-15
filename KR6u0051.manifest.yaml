@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6u0051/v1
 canonical_location: https://kanripo.org/bkk/KR6u0051/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 救諸眾生一切苦難經
   identifiers:
@@ -17,10 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6u0051_000.yaml, hash: 'sha256:440889fcf799ca5a5a5b665de6a89f04e5aabfa2c0fd5e746e5a4709d79da568'}
-  - {seq: 1, filename: KR6u0051_001.yaml, hash: 'sha256:21e240c4f13f8e0d7ba6ad91068248d605152bc7c859862904e37fab2c28d8a3'}
+  - {seq: 1, filename: KR6u0051_001.yaml, hash: 'sha256:eac0d995b1f27eaabba29864fc73fd9d7bfe5ea5f061af652fcf9744fe9e3952'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6u0051_000.markers.yaml, hash: 'sha256:ce4d608b0e11445a1a6d339b2ba4e23c310ca35466093cf1881e29a0a2203f29'}
-  - {seq: 1, role: markers, filename: assets/KR6u0051_001.markers.yaml, hash: 'sha256:feaf3721568063cea02dec67780f0653aa314fe4554a92c0271c5b0409d42768'}
+  - {seq: 1, role: markers, filename: assets/KR6u0051_001.markers.yaml, hash: 'sha256:df93fbd051b868fd7a0faf1729aab404bc4fc0a97fd6e28e0920999a9d342e92'}
 table_of_contents:
 - ref:
     seq: 1
@@ -32,4 +32,7 @@ table_of_contents:
   label: 救諸眾生一切苦難經
   type: juan
   level: 1
-hash: sha256:f5c8cafb7ba844d844e42799dd5556c31062fa6f9d68489b8d95f730dfc53d73
+hash: sha256:31bb05ac3b1cb87d289199a5c8b0f9f58473a612e486eb51e33a2e89d91d56f2
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
